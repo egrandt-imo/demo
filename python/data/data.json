@@ -3,32 +3,32 @@
         {
             "BookTitle": "Limitations",
             "Author": "E. F. Benson",
-            "Genres": ["fiction", "thriller"]
+            "Genres": ["suspense", "crime"]
         },
         {
             "BookTitle": "Impediments",
             "Author": "E. F. Benson",
-            "Genres": ["fiction", "thriller"]
+            "Genres": ["action", "adventure"]
         },
         {
             "BookTitle": "Buster",
             "Author": "George Ethelbert Walsh",
-            "Genres": ["fiction", "thriller"]
+            "Genres": ["classic", "thriller"]
         },
         {
             "BookTitle": "Walking essays",
             "Author": "Arthur Sidgwick",
-            "Genres": ["fiction", "thriller"]
+            "Genres": ["fiction", "sci-fi"]
         },
         {
             "BookTitle": "Doctor Rabbit and Ki-Yi Coyote",
             "Author": "Thomas Clark Hinkle",
-            "Genres": ["fiction", "thriller"]
+            "Genres": ["detective", "mystery"]
         },
         {
             "BookTitle": "The early life of Abraham Lincoln",
             "Author": "Ida M. Tarbell",
-            "Genres": ["fiction", "thriller"]
+            "Genres": ["non-fiction", "biography"]
         }
     ]
 }
