@@ -1,3 +1,5 @@
+# NOTE: This file uses 4 spaces for tabs
+
 def load_json():
     pass
 
