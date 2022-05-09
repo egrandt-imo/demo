@@ -1,4 +1,4 @@
-# NOTE: This file uses 4 spaces for tabs
+# NOTE: This file uses 4 spaces for indents
 
 def load_json():
     pass
