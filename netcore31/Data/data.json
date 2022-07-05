@@ -26,9 +26,14 @@
             "Genres": ["detective", "mystery"]
         },
         {
-            "Title": "Doctor Rabbit and Ki-Yi Coyote",
-            "Author": "Doctor Rabbit And Tom Wildcat",
+            "Title": "Doctor Rabbit And Tom Wildcat",
+            "Author": "Thomas Clark Hinkle",
             "Genres": ["detective", "mystery"]
+        },
+        {
+            "Title": "The early life of Abraham Lincoln",
+            "Author": "Ida M. Tarbell",
+            "Genres": ["non-fiction", "biography"]
         },
         {
             "Title": "The early life of Abraham Lincoln",
