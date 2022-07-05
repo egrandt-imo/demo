@@ -1,0 +1,44 @@
+{
+    "BookAuthors": [
+        {
+            "Title": "Limitations",
+            "Author": "E. F. Benson",
+            "Genres": ["suspense", "crime"]
+        },
+        {
+            "Title": "Impediments",
+            "Author": "E. F. Benson",
+            "Genres": ["action", "adventure"]
+        },
+        {
+            "Title": "Buster",
+            "Author": "George Ethelbert Walsh",
+            "Genres": ["classic", "thriller"]
+        },
+        {
+            "Title": "Walking essays",
+            "Author": "Arthur Sidgwick",
+            "Genres": ["fiction", "sci-fi"]
+        },
+        {
+            "Title": "Doctor Rabbit and Ki-Yi Coyote",
+            "Author": "Thomas Clark Hinkle",
+            "Genres": ["detective", "mystery"]
+        },
+        {
+            "Title": "Doctor Rabbit And Tom Wildcat",
+            "Author": "Thomas Clark Hinkle",
+            "Genres": ["detective", "mystery"]
+        },
+        {
+            "Title": "The early life of Abraham Lincoln",
+            "Author": "Ida M. Tarbell",
+            "Genres": ["non-fiction", "biography"]
+        },
+        {
+            "Title": "The early life of Abraham Lincoln",
+            "Author": "Ida M. Tarbell",
+            "Genres": ["non-fiction", "biography"]
+        }
+    ]
+}
