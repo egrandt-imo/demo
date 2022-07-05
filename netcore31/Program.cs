@@ -1,20 +1,17 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Linq;
-using Newtonsoft.Json;
 
-namespace InterviewProblems
+namespace Project
 {
     class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
-            var output = File.ReadAllText("Samples\\data.json");
-            // todo: convert input to requested output
-            Console.WriteLine(output);
-            Console.ReadLine();
-        }
+            var output = File.ReadAllText("Data\\data.json");
 
+            // TODO: Convert input to requested output
+            
+            Console.WriteLine(output);
+        }
     }
 }
