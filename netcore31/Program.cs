@@ -7,11 +7,11 @@ namespace Project
     {
         private static void Main(string[] args)
         {
-            var output = File.ReadAllText("Data\\data.json");
+            var input = File.ReadAllText("Data\\data.json");
 
             // TODO: Convert input to requested output
             
-            Console.WriteLine(output);
+            Console.WriteLine(input);
         }
     }
 }
